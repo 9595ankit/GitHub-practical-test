@@ -1,2 +1,9 @@
-# GitHub-practical-test
-A simple personal portfolio webpage created using HTML, CSS, and JavaScript for my Git and GitHub practical test.
+Full Name: Ankit Verma
+
+URN Number: E25B032614
+
+Semester: 3rd Semester 
+
+Section: B
+
+Subject: Git and GitHub
